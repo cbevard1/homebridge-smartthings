@@ -6,7 +6,7 @@
  */
 definition(
     name: "JSON Complete API",
-    namespace: "pdlove",
+    namespace: "cbevard1",
     author: "Paul Lovelace",
     description: "API for JSON with complete set of devices",
     category: "SmartThings Labs",
